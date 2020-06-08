@@ -1,0 +1,167 @@
+body {
+	background-color: #e0d3bf;
+}
+
+.navbar-brand {
+	font-family: Circular Std Black;
+	font-size: 30px;
+	color: white;
+}
+
+.nav-link {
+	font-family: Circular Std Black;
+	color: white;
+}
+
+/*style jumbotron*/
+.jumbotron {
+	background-image: url(img/beach.jpg);
+	background-size: cover;
+	height: 300px;
+	text-align: center;
+	
+}
+
+.jumbotron .display-4 {
+	color: white;
+	margin-top: 30px;
+
+}
+.jumbotron p {
+	color: white;
+	font-size: 23px;
+}
+
+/*style slider*/
+.carousel-item {
+	height: 500px;
+}
+.carousel-item img {
+	margin-top :-60px;
+}
+.carousel-item .display-4 {
+	color: #f5c947;
+	margin-top: -250px;
+}
+.carousel-caption .display-4 {
+	font-family: Circular Std Black;
+}
+.dropdown-item {
+	font-family: Circular Std Black;
+}
+
+/*kolom*/
+.col-md-3 .card {
+	margin-top: 50px;
+	height: 400px;
+	background-color: #f7f5f0;
+}
+.col-md-3 .card-main {
+	margin-top: 50px;
+	height: 243px;
+	background-color: #7a6d4c;
+}
+.col-md-9 .card {
+	margin-top: 50px;
+}
+.col-md-4 .card {
+	margin-top: 410px;
+}
+.col-md-4 .card-1 {
+	margin-top: 50px;
+}
+.col-md-4 .card-img{
+	height: 198px;
+}
+.col-md-12 .card {
+	height: 100px;
+}
+.card-body .card-title{
+	font-family: Circular Std Black;
+}
+.card-main .card-body .card-title{
+	color: white;
+}
+.card-main .card-body .card-text{
+	color: white;
+}
+.card-body .card-text{
+	font-family: Times New Roman;
+}
+.card-body .btn{
+	background-color: #e0d3bf;
+	border: none;
+}
+.card {
+	margin-top: 50px;
+	height: 200px;
+}
+
+.card-img-overlay .card-title {
+	font-family: Circular Std Black;
+	font-size: 80px;
+	text-align: center;
+	margin-top: 200px;
+	color: #f0bd3c;
+	letter-spacing: 15px;
+	border:none;
+}
+.card-img-overlay .card-title-a {
+	font-family: Circular Std Black;
+	font-size: 80px;
+	text-align: center;
+	margin-top: 60px;
+	color: black;
+	letter-spacing: 5px;
+	border:none;
+}
+.card-img-overlay .card-text-a {
+	font-family: circular std black;
+	text-align: center;
+	color: #47402b;
+	font-size: 30px;
+}
+.card-img-overlay .card-title-1 {
+	font-family: Cooper Black;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 60px;
+	color: black;
+	letter-spacing: 8px;
+	border-color:none;
+}
+.card-img-overlay .card-title-2 {
+	font-family: Cooper Black;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 100px;
+	color: black;
+	letter-spacing: 8px;
+	border-color: transparent;
+}
+.card-img-overlay .card-title-3 {
+	font-family: Cooper Black;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 85px;
+	color: black;
+	letter-spacing: 8px;
+	border-color: transparent;
+}
+.card-img-overlay .btn {
+	background-color: #24211b ;
+	border:none;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+.col-md-6 .card-1{
+	margin-top: 70px;
+}
+.col-md-6 .card-1 .card-img{
+	height:150px;
+}
+
+.footer{
+	margin-top: 40px;
+}
