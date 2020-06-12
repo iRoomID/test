@@ -65,7 +65,7 @@ body {
 	margin-top: 50px;
 }
 .col-md-4 .card {
-	margin-top: 410px;
+	margin-top: 50px;
 }
 .col-md-4 .card-1 {
 	margin-top: 50px;
@@ -89,12 +89,19 @@ body {
 	font-family: Times New Roman;
 }
 .card-body .btn{
-	background-color: #e0d3bf;
+	background-color: #635837;
 	border: none;
 }
 .card {
 	margin-top: 50px;
 	height: 200px;
+}
+.bg {
+	background-color: #695d3d;
+	margin-top: 50px;
+}
+.bg1 {
+	background-color: #695d3d;	
 }
 
 .card-img-overlay .card-title {
@@ -148,20 +155,10 @@ body {
 	letter-spacing: 8px;
 	border-color: transparent;
 }
-.card-img-overlay .btn {
-	background-color: #24211b ;
-	border:none;
-	display: flex;
-  	justify-content: center;
-  	align-items: center;
-}
+
 .col-md-6 .card-1{
 	margin-top: 70px;
 }
 .col-md-6 .card-1 .card-img{
 	height:150px;
-}
-
-.footer{
-	margin-top: 40px;
 }
